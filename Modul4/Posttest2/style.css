@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
+
+.sidebar {
+    float: left;
+    width: 20%;
+    height: 300px; /* Tinggi seadanya */
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.konten {
+    float: left;
+    width: 75%;
+    padding: 10px;
+}

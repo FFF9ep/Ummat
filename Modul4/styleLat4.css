@@ -1,0 +1,76 @@
+body{
+margin: 0;
+}
+
+.header{
+width: 100%;
+height: 110px;
+background-color: thistle;
+}
+
+.header img{
+width: 100px;
+float: left;
+margin: 5px;
+padding-left: 10px;
+}
+
+.header h1{
+font-size: 50px;
+text-align: center;
+margin-top: 0px;
+padding-top: 30px;
+font-family: sans-serif;color: whitesmoke;
+}
+
+.kolom{
+height: 500px;
+float: left;
+font-family: sans-serif;
+}
+
+.kiri{
+width: 25%;
+background-color: rgb(229, 229, 229);
+}
+
+.kiri h2{
+text-align: center;
+}
+
+.kiri a{
+padding: 30px;
+font-size: 20px;
+line-height: 40px;
+color: black;
+text-decoration:none;
+border-radius: 4px;
+}
+
+.kiri a:hover{
+font-size: 25px;
+color: white;
+}
+
+.kiri a.active{
+color: thistle;
+}
+
+.kanan{
+width:75% ;
+background-color: whitesmoke;
+text-align: justify;
+}
+
+.kanan h2{
+padding-left: 10px;
+}
+
+.kanan p{
+padding-left: 10px;
+padding-right: 15px;
+}
+
+img{
+width: 300px;
+}
