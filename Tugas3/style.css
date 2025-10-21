@@ -46,7 +46,7 @@ p {
 .form-group input,
 .form-group select {
     border: 1px solid #ccc;
-    padding: 5px;
+    padding: 10px;
 }
 
 .form-buttons {
